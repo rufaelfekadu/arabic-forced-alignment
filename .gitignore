@@ -1,0 +1,6 @@
+data/
+.tmp/
+work/
+third_party/
+
+**__pycache__/

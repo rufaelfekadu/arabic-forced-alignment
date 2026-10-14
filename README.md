@@ -16,8 +16,6 @@ be phonetised.
 | `phonetise_ipa.py` | Wraps Arabic-Phonetiser and maps its Buckwalter output to IPA. |
 | `arabic_buckwalter_to_ipa.csv` | The table that maps Buckwalter phones to IPA phones. |
 
-`data/`, `work/` and `third_party/` are git-ignored and are created as the
-pipeline runs.
 
 ## Requirements
 
